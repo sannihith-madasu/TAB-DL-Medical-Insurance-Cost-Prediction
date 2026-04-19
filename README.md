@@ -10,7 +10,7 @@ Place `dataset.csv` in the project root with the following columns:
 - bmi (float)
 - children (int)
 - smoker (yes/no)
-- region (northeast/northwest/southeast/southwest)
+- region (N/E/S/W/NW/NE/SW/SE)
 - charges (float, target)
 
 ## Install dependencies
